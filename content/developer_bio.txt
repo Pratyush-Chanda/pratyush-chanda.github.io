@@ -1,0 +1,29 @@
+DEVELOPER BIO
+
+PROFILE
+Technology enthusiast focused on Linux, operating systems, Android firmware, privacy-oriented computing and AI-assisted software prototyping. Interested in understanding how computing systems work, customising them and exploring alternatives to closed or restrictive platforms.
+
+SHORT BIO
+I explore Linux and alternative operating systems, customise desktop environments and boot configurations, and develop personal software concepts with AI-assisted implementation. My longest-used Linux daily driver has been Void Linux, which I used for approximately a year; I have also daily-driven Artix Linux and Nobara. My longer-term interest is in affordable, developer-friendly and repairable computing hardware, especially development boards and smartphones.
+
+TECHNICAL EXPERIENCE AND INTERESTS
+- Python: basic programming knowledge.
+- Linux desktop use and customisation: daily-driver experience with Void Linux, Artix Linux and Nobara.
+- Linux configuration: window management, login managers, startup scripts, GRUB, Bash scripts and utilities, services, networking, permissions and desktop customisation.
+- System experimentation: package building, compiling from source and kernel-compilation experiments.
+- Operating-system exploration: Arch Linux, Fedora, Ubuntu, Linux Mint, ReactOS, MS-DOS, OS/2, Haiku, Visopsys, KolibriOS, Android-x86, Bliss OS, older Windows versions and prereleases, among others.
+- Android and mobile Linux experimentation: investigated custom splash-screen implementation and Android boot/firmware behaviour on an ASUS ZenFone Max Pro M2; attempted a postmarketOS port using Halium and experimented with Qualcomm EDL recovery. The effort ended after an eMCP/eMMC hardware failure.
+- Embedded development: explored concepts, but have not yet built a physical embedded project.
+
+PROJECTS
+GitHub: https://github.com/Pratyush-Chanda
+
+Most personal software projects have used AI-assisted or vibe-coded implementation. The underlying ideas and product concepts are mine; independent proficiency in maintaining and extending all generated code should not be assumed.
+
+One project previously identified in my profile is Pipeline, a YouTube-style video discovery frontend built around the Invidious ecosystem. The complete repository portfolio has not been exhaustively audited.
+
+LONG-TERM TECHNICAL DIRECTION
+Interested in eventually designing and developing affordable, developer-friendly and repairable computing hardware, particularly development boards and smartphones. Architecture interests include ARM, RISC-V and x86_64. Important design priorities include affordability, developer access, repairability, software freedom, source and documentation availability, alternative operating-system support and long-term maintainability.
+
+POTENTIAL BIO TAGLINE
+Exploring Linux, operating systems and privacy-oriented computing; interested in building more open, repairable and developer-friendly hardware.
